@@ -7,10 +7,9 @@
 - bootstrap classes
 
 ## use
-**
+
 1. git clone https://github.com/Rayhan0Islam0Shagor/socket.io-basics.git
 2. cd socket.io-basics
 3. npm i / yarn
 4. npm run dev
-**
 
